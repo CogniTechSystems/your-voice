@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+/backend/build/
+/frontend/dist/
+.venv/
+.venv-*/
+venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Node
+node_modules/
+*.tsbuildinfo
+coverage/
+playwright-report/
+test-results/
+
+# Application data
+/data/
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+
+# Local captures and generated design studies
+.screenshot-work/
+.branding-tmp/
+.test-tmp/
+.publication-check-tmp/
+design/page-concepts/
+
+# Temporary editor and tool files
+*.tmp
+*.bak
+*.orig
+*.swp
+*.swo
+*~
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

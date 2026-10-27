@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+<title id="title">Your Voice</title><desc id="desc">Your Voice brand banner with a speech and waveform mark.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b25"/><stop offset="1" stop-color="#152d35"/></linearGradient>
+  <linearGradient id="line" x2="1" y2="0"><stop stop-color="#40bdbc" stop-opacity="0"/><stop offset=".55" stop-color="#48c7c2" stop-opacity=".55"/><stop offset="1" stop-color="#7edbd0" stop-opacity=".08"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#399f9d" stop-opacity=".3"/><stop offset="1" stop-color="#399f9d" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1500" height="500" fill="url(#bg)"/>
+<circle cx="1245" cy="225" r="325" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" stroke-width="2"><path d="M720 150 C1020 10 1200 420 1560 160"/><path d="M720 195 C1020 50 1200 400 1560 200"/><path d="M720 240 C1020 90 1200 380 1560 240"/><path d="M720 285 C1020 130 1200 360 1560 280"/><path d="M720 330 C1020 170 1200 340 1560 320"/><path d="M720 375 C1020 210 1200 320 1560 360"/><path d="M720 420 C1020 250 1200 300 1560 400"/><path d="M720 465 C1020 290 1200 280 1560 440"/><path d="M720 510 C1020 330 1200 260 1560 480"/></g>
+<path d="M0 492H1500" stroke="#64d3ca" stroke-width="8"/><g transform="translate(112 115) scale(0.76)">
+  <rect width="100" height="100" rx="25" fill="#16323d" stroke="#4dc6c7" stroke-opacity=".5"/>
+  <path d="M23 29h54a7 7 0 0 1 7 7v33a7 7 0 0 1-7 7H48L32 88V76h-9a7 7 0 0 1-7-7V36a7 7 0 0 1 7-7Z" fill="none" stroke="#e9f4ef" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M31 53h9l6-11 9 22 6-11h10" fill="none" stroke="#61dad2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="112" y="261" fill="#f1f5ee" font-family="Georgia, serif" font-size="72" font-weight="bold" letter-spacing="-3">Your Voice</text>
+<text x="115" y="285" fill="#c2d2cf" font-family="Segoe UI, Arial, sans-serif" font-size="26" letter-spacing=".2">Write with a local model. Sound like yourself.</text>
+<path d="M115 314h140" stroke="#64d3ca" stroke-width="4" stroke-linecap="round"/></svg>
