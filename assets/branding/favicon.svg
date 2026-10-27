@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Your Voice">
+  <rect width="64" height="64" rx="15" fill="#16323d"/>
+  <path d="M13 17h38a5 5 0 0 1 5 5v22a5 5 0 0 1-5 5H31L20 57v-8h-7a5 5 0 0 1-5-5V22a5 5 0 0 1 5-5Z" fill="none" stroke="#f1f5ee" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M18 33h8l5-9 7 18 5-9h7" fill="none" stroke="#64d3ca" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
